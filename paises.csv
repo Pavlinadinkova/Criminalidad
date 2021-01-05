@@ -42,3 +42,93 @@ Puesto ; Pais ;Indice_Criminalidad ;Indice_Seguridad
 41	; Argelia;	50,41;	49,59
 42	; Paraguay	;49,60	;50,40
 43 ; Chile ; 49,60 ; 50,40
+44	; Etiopia	; 49,23	; 50,77
+45	; Marruecos ;	48,97 ;	51,03
+46	; Iran ;	48,91 ;	51,09
+47	; Ucrania	; 48,84 ;	51,16
+48 ;	Ghana ;	48,64 ;	51,36
+49 ;	Irak ;	48,00 ;	52,00
+50	; Estados Unidos ;	47,70	; 52,30
+51 ;	Suecia ;	47,43	; 52,57
+52 ;	Francia ;	47,37	; 52,63
+53 ;	Birmania ;	46,93 ;	53,07
+54 ;	Egipto ;	46,65 ;	53,35
+55 ;	Vietnam ;	46,52 ;	53,48
+56 ;	Mauricio ;	46,41 ;	53,59
+57 ;	Panama ;	46,20 ;	53,80
+58 ;	Indonesia ;	46,06	; 53,94
+59 ;	Moldavia ;	46,03 ;	53,97
+60 ;	Irlanda ;	45,68 ;	54,32
+61 ;	Nicaragua	; 45,54 ;	54,46
+62 ;	Belgica ;	45,29	; 54,71
+63 ;	Palestina	; 45,21 ;	54,79
+64 ;	Reino Unido ;	44,54	; 55,46
+65 ;	India ;	44,42	; 55,58
+66 ;	Italia ;	44,24 ;	55,76
+67	; Pakistan ;	44,18	; 55,82
+68	; Líbano ;	44,07	; 55,93
+69 ;	Bosnia y Herzegovina ;	43,57 ;	56,43
+70 ;	Zambia	; 43,22 ;	56,78
+71 ;	Filipinas ;	42,22 ;	57,78
+72 ;	Nueva Zelanda ;	42,19 ;	57,81
+73 ;	Tunez ;	41,68	; 58,32
+74 ;	Australia	; 41,67 ;	58,33
+75 ;	Montenegro ;	41,56 ;	58,44
+76 ;	Grecia ;	41,30 ;	58,70
+77 ;	Jordania ;	40,83 ;	59,17
+78 ;	Canada ;	40,64 ;	59,36
+79 ;	Rusia	; 40,60	; 59,40
+80 ;	Sri Lanka	; 40,23 ;	59,77
+81 ;	Tailandia ;	40,01 ;	59,99
+82 ;	Albania ;	39,86 ;	60,14
+83 ;	Turquia ;	39,50	; 60,50
+84 ;	Malta ;	39,37 ;	60,63
+85 ;	Macedonia del Norte ;	38,61	; 61,39
+86 ;	Bulgaria	; 38,55 ;	61,45
+87 ;	Serbia;	37,73;	62,27
+88 ;	Letonia	; 37,43	; 62,57
+89 ;	Nepal	; 35,61 ;	64,39
+90 ;	Hungria	; 35,23 ;	64,77
+91 ;	Alemania ;	35,14 ;	64,86
+92 ;	Noruega	; 34,62	; 65,38
+93 ;	Kuwait	; 34,57 ;	65,43
+94 ;	Lituania	; 33,88 ;	66,12
+95 ;	Polonia	; 33,13	; 66,87
+96 ;	Luxemburgo	; 32,75 ;	67,25
+97 ;	España	; 32,33 ;	67,67
+98 ;	Azerbaiyán ;	32,12 ;	67,88
+99 ;	Chipre	; 31,57	; 68,43
+100 ;	Singapur ;	31,53 ;	68,47
+101	; China	; 31,18	; 68,82
+102 ;	Israel ;	30,44 ;	69,56
+103	; Kosovo	; 30,31	; 69,69
+104	; Portugal	; 29,83 ;	70,17
+105	;Eslovaquia	; 29,81 ; 70,19
+106 ;	Cuba ;	29,02 ;	70,98
+107	; Brunei ;	28,75 ;	71,25
+108	; Uzbekistan ;	28,62 ;	71,38
+109	; Rumania ;	27,82 ;	72,18
+110	; Corea del Sur	; 27,33	; 72,67
+111	; Paises Bajos ;	27,15 ;	72,85
+112	; Barein ;	26,86	; 73,14
+113	; Arabia Saudita ;	26,68	; 73,32
+114	; Dinamarca	; 26,09	; 73,91
+115	; Finlandia ;	25,53 ;	74,47
+116	; Republica Checa	; 25,40 ;	74,60
+117	; Bielorrusia	; 25,02 ;	74,98
+118	; Croacia ;	24,67	; 75,33
+119	; Austria ;	24,43 ;	75,57
+120	; Islandia	; 23,70	; 76,30
+121	; Estonia	; 23,56 ;	76,44
+122	; Armenia	; 22,69 ;	77,31
+123	; Ruanda ;	22,04 ;	77,96
+124	; Japon	; 21,67 ;	78,33
+125	; Suiza	; 21,58	; 78,42
+126	; Isla de Man	; 21,32	; 78,68
+127	; Eslovenia	; 20,95	; 79,05
+128	; Hong Kong	; 20,91	; 79,09
+129	; Oman	; 20,62	; 79,38
+130	; Georgia	; 20,50 ;	79,50
+131	; Emiratos Arabes Unidos	; 15,45 ;	84,55
+132	; Taiwan ;	15,26	; 84,74
+133	; Catar ;	11,90 ;	88,10
