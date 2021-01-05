@@ -66,7 +66,7 @@ Puesto ; Pais ;Indice_Criminalidad ;Indice_Seguridad
 65 ;	India ;	44,42	; 55,58
 66 ;	Italia ;	44,24 ;	55,76
 67	; Pakistan ;	44,18	; 55,82
-68	; Líbano ;	44,07	; 55,93
+68	; Libano ;	44,07	; 55,93
 69 ;	Bosnia y Herzegovina ;	43,57 ;	56,43
 70 ;	Zambia	; 43,22 ;	56,78
 71 ;	Filipinas ;	42,22 ;	57,78
@@ -95,8 +95,8 @@ Puesto ; Pais ;Indice_Criminalidad ;Indice_Seguridad
 94 ;	Lituania	; 33,88 ;	66,12
 95 ;	Polonia	; 33,13	; 66,87
 96 ;	Luxemburgo	; 32,75 ;	67,25
-97 ;	España	; 32,33 ;	67,67
-98 ;	Azerbaiyán ;	32,12 ;	67,88
+97 ;	Espanya	; 32,33 ;	67,67
+98 ;	Azerbaiyan ;	32,12 ;	67,88
 99 ;	Chipre	; 31,57	; 68,43
 100 ;	Singapur ;	31,53 ;	68,47
 101	; China	; 31,18	; 68,82
