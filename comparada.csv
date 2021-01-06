@@ -1,17 +1,16 @@
-Pais ; Tasa
-Suecia ; 121,0
-Belgica ; 95,1
-Dinamarca ; 88,4
-Reino Unido ; 84,7
-Holanda ; 74,5
-Alemania ; 73,9
-Luxemburgo ; 71,2
-Finlandia ; 67,8
-UE(15) ; 67,6
-Irlanda ; 67,5
-Austria ; 64,4
-Italia ; 57,0
-Francia ; 56,4
-Espanya ; 45,1
-Portugal ; 40,5
-Grecia ; 38,2
+Ranking; Pais ; Tasa
+1 ; Suecia ; 121,0
+2 ;Belgica ; 95,1
+3 ; Dinamarca ; 88,4
+4 ; Reino Unido ; 84,7
+5 ;Holanda ; 74,5
+6 ;Alemania ; 73,9
+7 ;Luxemburgo ; 71,2
+8 ;Finlandia ; 67,8
+9 ;Irlanda ; 67,5
+10 ;Austria ; 64,4
+11 ; Italia ; 57,0
+12 ;Francia ; 56,4
+13 ;Espanya ; 45,1
+14 ;Portugal ; 40,5
+15 ;Grecia ; 38,2
